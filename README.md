@@ -38,3 +38,10 @@ npm run dev
 ```
 npm run build
 ```
+
+📸 ***Screenshots & Video Walkthrough***<br/>
+
+**UI Screenshots** <br/>
+
+**Video Walkthrough** <br/>
+https://drive.google.com/file/d/1Ob7-mDozb97o8mwXpbanUshjI-uG7PXj/view?usp=sharing
