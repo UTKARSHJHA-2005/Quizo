@@ -40,8 +40,5 @@ npm run build
 ```
 
 📸 ***Screenshots & Video Walkthrough***<br/>
-
-**UI Screenshots** <br/>
-
-**Video Walkthrough** <br/>
-https://drive.google.com/file/d/1Ob7-mDozb97o8mwXpbanUshjI-uG7PXj/view?usp=sharing
+This drive link consists of the screenshots of the website and the video of working of website.
+https://drive.google.com/drive/folders/1gG2E1C27GhwSCdBiD1DNuNkSVsqcJWk9?usp=sharing
