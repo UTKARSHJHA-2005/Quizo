@@ -23,13 +23,11 @@ Ensure you have the following installed:
 **Installation Steps**<br/>
 1) Clone the Repository<br/>
 ```
-git clone https://github.com/UTKARSHJHA-2005/QuizTy.git<br/>
-cd QuizTy<br/>
+git clone https://github.com/UTKARSHJHA-2005/QuizTy.git
+cd QuizTy
 ```
 2) Install Dependencies<br/>
-```
-npm install <br/>
-```
+> npm install 
 3) Run the development server <br/>
 ```
 npm run dev <br/>
