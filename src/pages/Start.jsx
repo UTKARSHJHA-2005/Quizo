@@ -2,9 +2,15 @@
 import React from "react";
 import { BookOpen, Clock, Award, AlertCircle } from "lucide-react"; // Icons 
 
-const Start = ({ onStart }) => {
+const Start = ({ onStart, onProfile }) => {
     return (
         <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-b from-blue-50 to-white p-6">
+            {/* Button to Go to Profile Page */}
+            <button
+                onClick={onProfile} title="Progress History"
+                className="fixed top-4 right-4 sm:top-5 sm:right-5 hover:scale-110 bg-blue-500 text-white px-3 py-2 sm:px-4 sm:py-2 rounded-lg shadow-md transition-all duration-300 hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-400">
+                📋
+            </button>
             <div className="max-w-2xl w-full bg-white rounded-2xl shadow-lg p-8">
                 {/* Welcome Message */}
                 <h1 className="text-4xl font-bold text-center text-blue-600 mb-8">
