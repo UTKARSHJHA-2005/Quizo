@@ -19,6 +19,7 @@ Frameworks: Vite, TailwindCSS.<br/>
 Ensure you have the following installed:
 1) Node.js<br/>
 2) npm or yarn<br/>
+
 **Installation Steps**<br/>
 1) Clone the Repository<br/>
 git clone https://github.com/UTKARSHJHA-2005/QuizTy.git<br/>
