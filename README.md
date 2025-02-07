@@ -27,8 +27,14 @@ git clone https://github.com/UTKARSHJHA-2005/QuizTy.git
 cd QuizTy
 ```
 2) Install Dependencies<br/>
-```npm install``` 
+```
+npm install
+``` 
 3) Run the development server <br/>
-```npm run dev ```
+```
+npm run dev
+```
 4) Build for Production <br/>
-```npm run build```
+```
+npm run build
+```
