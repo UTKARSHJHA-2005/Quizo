@@ -64,10 +64,10 @@ const Quiz = ({ onQuizEnd }) => {
     // This code works for the locked question.
     const lockQuestionAndMoveNext = () => {
         if (!lockedQuestions.includes(currentIndex)) {
-          setLockedQuestions((prev) => [...prev, currentIndex]); // ✅ Mark question as attempted
+          setLockedQuestions((prev) => [...prev, currentIndex]); // Mark question as attempted
         }
-        if (lockedQuestions.length + 1 === questions.length) { // ✅ Check if all questions are answered
-          onQuizEnd(score); // ✅ Automatically end the quiz
+        if (lockedQuestions.length + 1 === questions.length) { // Check if all questions are answered
+          onQuizEnd(score); // Automatically end the quiz
         } else {
           handleNextQuestion();
         }
