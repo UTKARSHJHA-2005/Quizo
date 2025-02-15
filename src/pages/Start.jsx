@@ -14,7 +14,7 @@ const Start = ({ onStart, onProfile }) => {
             <div className="max-w-2xl w-full bg-white rounded-2xl shadow-lg p-8">
                 {/* Welcome Message */}
                 <h1 className="text-4xl font-bold text-center text-blue-600 mb-8">
-                    Welcome to the QuizTy: The Quiz Starts the Learning !
+                    Welcome to the Quizo: The Quiz Starts the Learning !
                 </h1>
                 {/* Rules for the Quiz */}
                 <div className="space-y-6 mb-8">
