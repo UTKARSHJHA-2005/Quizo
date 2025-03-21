@@ -38,7 +38,3 @@ npm run dev
 ```
 npm run build
 ```
-
-📸 ***Screenshots & Video Walkthrough***<br/>
-This drive link consists of the screenshots of the website and the video of working of website.
-https://drive.google.com/drive/folders/1gG2E1C27GhwSCdBiD1DNuNkSVsqcJWk9?usp=sharing
