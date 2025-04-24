@@ -29,16 +29,16 @@ cd QuizTy
 </pre>
 <br/>
 2) Install Dependencies<br/>
-```
+<pre>
 npm install
-```
+</pre>
 <br/>
 3) Run the development server <br/>
-```
+<pre>
 npm run dev
-```
+</pre>
 <br/>
 4) Build for Production <br/>
-```
+<pre>
 npm run build
-```
+</pre>
