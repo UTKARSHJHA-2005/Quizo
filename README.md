@@ -20,7 +20,7 @@ Frameworks: Vite, TailwindCSS.<br/>
 Ensure you have the following installed:<br/>
 1) Node.js<br/>
 2) npm or yarn<br/>
-
+<br/>
 <strong><i>Installation Steps</i></strong><br/>
 1) Clone the Repository<br/>
 ```
