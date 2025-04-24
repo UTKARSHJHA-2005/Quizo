@@ -24,10 +24,8 @@ Ensure you have the following installed:<br/>
 <strong><i>Installation Steps</i></strong><br/>
 1) Clone the Repository<br/>
 <pre>
-```
 git clone https://github.com/UTKARSHJHA-2005/QuizTy.git
 cd QuizTy
-```  
 </pre>
 <br/>
 2) Install Dependencies<br/>
