@@ -26,15 +26,18 @@ Ensure you have the following installed:<br/>
 ```
 git clone https://github.com/UTKARSHJHA-2005/QuizTy.git
 cd QuizTy
-```
+```  
+<br/>
 2) Install Dependencies<br/>
 ```
 npm install
-``` 
+```
+<br/>
 3) Run the development server <br/>
 ```
 npm run dev
 ```
+<br/>
 4) Build for Production <br/>
 ```
 npm run build
