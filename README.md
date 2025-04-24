@@ -2,7 +2,7 @@
 <br/>
 QuizTy is an interactive web-based quiz application built using React.js(Vite). It provides users with an engaging platform to test their knowledge across various types of question. The app features real-time score tracking, a user-friendly interface, and seamless navigation.<br/>
 <br/>
-✨ <strong>Features</strong><br/>
+✨ <strong><i>Features</i>s</strong><br/>
 ✅ Dynamic question system<br/>
 ✅ Real-time score tracking<br/>
 ✅ Responsive and intuitive UI<br/>
