@@ -1,6 +1,6 @@
-# QuizTy - Web-Based Quiz App 
+# Quizo - Web-Based Quiz App 
 <br/>
-QuizTy is an interactive web-based quiz application built using React.js(Vite). It provides users with an engaging platform to test their knowledge across various types of question. The app features real-time score tracking, a user-friendly interface, and seamless navigation.<br/>
+Quizo is an interactive web-based quiz application built using React.js(Vite). It provides users with an engaging platform to test their knowledge across various types of question. The app features real-time score tracking, a user-friendly interface, and seamless navigation.<br/>
 <br/>
 ✨ <strong><i>Features</i></strong><br/>
 ✅ Dynamic question system<br/>
